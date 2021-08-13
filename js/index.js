@@ -1,5 +1,5 @@
 console.log("js is ready");
 
-body{
+body;{
     background:blue;
 }
